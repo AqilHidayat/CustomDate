@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Date</string>
+    <string name="name">TODO</string>
+    <string name="date">Date</string>
+</resources>
